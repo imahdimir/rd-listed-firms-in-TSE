@@ -1,0 +1,5 @@
+{
+    "dsc": "Listed firms in TSE from tse.ir",
+    "src": "https://tse.ir/listing.html?cat=cash&section=alphabet",
+    "desc": "manually copied from the soruce url"
+}
